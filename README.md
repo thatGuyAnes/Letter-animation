@@ -2,7 +2,7 @@
 
 Example on how to animate letters.
 
-![Gif](Peek 2022-01-11 00-13.gif)
+![Demo](demo.gif)
 
 ## Installation
 
