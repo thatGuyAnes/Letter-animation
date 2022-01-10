@@ -25,6 +25,9 @@ npm run build
 
 * [gsap](https://github.com/greensock/GSAP)
 * [Splitting.js](https://github.com/shshaw/Splitting)
-Fonts: Space Grotesk, Cormorant Garamond.
+
+Fonts:
+* Space Grotesk.
+* Cormorant Garamond.
 
 
